@@ -1,6 +1,6 @@
-# SMCD: 
+# SMCD: Enhancing Heterogeneous Graph Learning with Semantic-Aware Meta-Path Diffusion and Dual Optimization
 
-![STDE-HGL](./framework.png)
+![SMCD](./framework.png)
 
 ## 📝 Environment
 
